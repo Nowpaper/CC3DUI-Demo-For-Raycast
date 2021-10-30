@@ -1,0 +1,76 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f2e9c246-2adf-41de-a076-42855ec3a601",
+  "files": [],
+  "subMetas": {
+    "b6226": {
+      "importer": "gltf-mesh",
+      "uuid": "f2e9c246-2adf-41de-a076-42855ec3a601@b6226",
+      "displayName": "",
+      "id": "b6226",
+      "name": "文本.001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dd992": {
+      "importer": "gltf-material",
+      "uuid": "f2e9c246-2adf-41de-a076-42855ec3a601@dd992",
+      "displayName": "",
+      "id": "dd992",
+      "name": "材质.001.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "81cb3": {
+      "importer": "gltf-scene",
+      "uuid": "f2e9c246-2adf-41de-a076-42855ec3a601@81cb3",
+      "displayName": "",
+      "id": "81cb3",
+      "name": "text2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "f2e9c246-2adf-41de-a076-42855ec3a601@81cb3",
+    "assetFinder": {
+      "meshes": [
+        "f2e9c246-2adf-41de-a076-42855ec3a601@b6226"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "f2e9c246-2adf-41de-a076-42855ec3a601@dd992"
+      ],
+      "scenes": [
+        "f2e9c246-2adf-41de-a076-42855ec3a601@81cb3"
+      ]
+    }
+  }
+}
